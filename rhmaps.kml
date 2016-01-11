@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Untitled layer</name>
+	<Style id="icon-503-DB4436-normal">
+		<IconStyle>
+			<color>ff3644db</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-503-DB4436">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-503-DB4436-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-503-DB4436-highlight">
+		<IconStyle>
+			<color>ff3644db</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>Sweets Way occupation</name>
+		<description><![CDATA[Local residents and supporters from Sweets Way Estate, fighting social cleansing by Annington Homes and Barnet Council. <br><br>Website: https://sweetswayresists.wordpress.com/<br><br>Press: http://www.theguardian.com/commentisfree/2015/mar/24/sweets-way-great-ignored-london-housing-estate-protest-dissent-privilege<br><br>Twitter: https://twitter.com/SweetsWayN20]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="video">
+				<value><![CDATA[<iframe width="640" height="360"
+					src="http://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+					allowfullscreen></iframe><br><br>]]></value>
+				</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.1725143,51.6282242,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>West Hendon Estate</name>
+		<description><![CDATA[Our West Hendon is campaign group made up of residents across tenures from the West Hendon estate who are being forced out of their homes and community.<br><br>Petition: https://www.change.org/p/boris-johnson-put-our-homes-before-profit<br><br>Press: http://www.theguardian.com/society/2015/jan/20/barnet-council-social-cleansing-barratt-homes-west-hendon   <br><br>Twitter: https://twitter.com/OurWestHendon]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.240519,51.5776963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Carpenters Estate - Focus E15</name>
+		<description><![CDATA[The group successfully campaigned against being displaced from London due to closure of the Focus E15 hostel, after an occupation of empty houses on the Carpenters Estate. Now campaigning for the repopulation of the whole estate, and coordinating anti-eviction actions. Stall every Saturday on Stratford Broadway 12-2pm.<br><br>website: http://focuse15.org/<br><br>twitter: https://twitter.com/FocusE15<br><br>press: http://www.theguardian.com/commentisfree/2014/oct/05/focus-e15-mums-fight-for-right-to-home]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.0050533,51.53780070000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Boleyn Ground (West Ham United)</name>
+		<description><![CDATA[Campaign for 100% social housing in the planned redevelopment of West Ham Stadium<br><br>Petition: https://www.change.org/p/newham-council-we-call-on-newham-council-to-demand-100-social-housing-on-the-boleyn-ground-to-serve-the-needs-of-the-people-of-newham-and-balance-the-private-luxury-housing-being-built-in-the-borough-and-to-make-the-football-pitch-a-public-park<br><br>Press: http://www.theguardian.com/society/2015/feb/24/newham-residents-social-housing-west-ham<br><br>Twitter: https://twitter.com/BoleynDev100]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>0.0385594,51.5323349,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Aylesbury Estate occupation</name>
+		<description><![CDATA[Actions and occupations at the Aylesbury in protest over Southwark's planned demolition of the estate.<br><br>Websites: https://fightfortheaylesbury.wordpress.com/<br><br>https://housingactionsouthwarkandlambeth.wordpress.com/<br><br>Twitter: <br><br>https://twitter.com/fight4aylesbury<br>https://twitter.com/HousingActionSL]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.0878584,51.4873625,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>One Commercial Street - Poor Doors campaign</name>
+		<description><![CDATA[Weekly protest every Thursday at 6-7pm against social segregation in One Commercial Street and all other developments with 'Poor Doors'.<br><br>Info: http://www.classwarparty.org.uk/category/poor-doors/<br><br>Twitter: https://twitter.com/classwar2015]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.07230159999999999,51.51528600000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Cressingham Gardens</name>
+		<description><![CDATA[Campaign against the demolition of the Cressingham Gardens Estate<br><br>Website: https://www.facebook.com/SaveCressinghamGardens<br><br>Press: http://www.brixtonbuzz.com/2015/01/brixton-campaigners-join-the-march-for-homes-in-south-london-photo-feature/<br><br>Donate: http://www.gofundme.com/savecressingham<br><br>Twitter: https://twitter.com/SaveCressingham]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.1119125,51.446806,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fred Wigg and John Walsh Towers</name>
+		<description><![CDATA[Campaign against demolition and reduced social housing<br><br>Website: https://www.facebook.com/fred.wigg<br><br>Press:  http://www.theguardian.com/commentisfree/2015/jan/13/families-cheated-homes-poor-labour-council-gentrification<br><br>Twitter: https://twitter.com/FredJohnTowers]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>0.0140119,51.56105119999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Save the Joiners Arms</name>
+		<description><![CDATA[Campaign to save & evolve The Joiners to become London's first co-operatively, democratically run LGBTQI community centre,<br><br>http://save-the-joiners.tumblr.com/<br><br>https://www.facebook.com/pages/Friends-of-the-Joiners-Arms/859212550775984<br><br>https://twitter.com/Joinersliveson]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.0745976,51.5297085,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Save Earl&apos;s Court</name>
+		<description><![CDATA[Campaign against demolition of Earl's Court and it's replacement with unaffordable housing<br><br>Website: http://www.saveearlscourt.com<br><br>Petition: https://you.38degrees.org.uk/petitions/save-earl-s-court<br><br>Twitter: https://twitter.com/saveEarlsCourt]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.1969814,51.4894268,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>West Ken and Gibbs Green Estates</name>
+		<description><![CDATA[Campaign against demolition of the estates and their replacement with luxury housing<br><br>https://westkengibbsgreen.wordpress.com/about]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.2038693,51.4899745,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Save Our Sutton</name>
+		<description><![CDATA[Campaign against demolition of Sutton estate on Cale Street, Chelsea <br><br>Website: http://www.savethesuttonestate.co.uk/<br><br>Petition: https://www.change.org/p/affinity-sutton-rbkc-stop-the-demolition-of-sutton-estate-cale-street-chelsea?recruiter=154387915&utm_campaign=mailto_link&utm_medium=email&utm_source=share_petition&ct=t(Heinz_Schumi_has_moved5_7_2014<br><br>Twitter: https://twitter.com/SaveOurSutton]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.1681879,51.49064760000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>New Era Estate</name>
+		<description><![CDATA[Victory! New Era residents succeed in their campaign to stay in their homes:<br><br>https://www.facebook.com/Change.orgUK/photos/a.346853292099583.1073741826.331457716972474/674778572640385/?type=1&theater<br><br>https://twitter.com/newera4all]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.0813675,51.5362458,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Balfron Tower</name>
+		<description><![CDATA[Campaign for 50% social housing in Balfron Tower<br><br>Press: <br><br>How Balfron Tower Residents Lost their Homes http://www.eastendreview.co.uk/2015/03/24/balfron-tower-poplar-harca/<br><br>Interview with evictee: http://novaramedia.com/2013/08/social-cleansing-in-tower-hamlets-interview-with-balfron-tower-evictee/<br><br>Twitter: https://twitter.com/BalfronSocial]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.008883500000000001,51.5135701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Guinness Trust Occupation, Loughborough Park Estate</name>
+		<description><![CDATA[Successful occupation against eviction of tenants. Now campaigning to save the estate:<br><br>Petition: https://www.change.org/p/simon-dow-stop-the-social-cleansing-of-brixton-stop-the-evictions-of-tenants-from-loughborough-park-estate<br>  <br><br>Twitter: http://www.twitter.com/guinness_occupy <br><br>Website: https://guinnessoccupation.wordpress.com/]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.1059258,51.4591286,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Grow Heathrow, Sipson</name>
+		<description><![CDATA[Campaign against demolition of homes to make way for third runway, .<br><br>On March 1st 2010 Transition Heathrow members swooped on an abandoned market garden site in Sipson; one of the villages to be completely tarmaced to make way for a third runway at Heathrow. Two years later the site has been transformed from a derelict mess into a beacon of community strength and a great example of how to live sustainably.<br><br>Website: http://www.transitionheathrow.com/grow-heathrow/<br><br>Twitter: https://twitter.com/transheathrow]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.4572307999999999,51.4904439,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Save Soho</name>
+		<description><![CDATA[Twitter: https://twitter.com/WeAreSaveSoho<br><br>Facebook: https://www.facebook.com/groups/savesoho/]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.1295829,51.5150724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>No to Northumberland Park Demolitions</name>
+		<description><![CDATA[Info: http://www.haringey.org.uk/content/65-news/290-stop-estate-demolitions-lobby-the-full-council-meeting (includes 900 homes at Northumberland Park, as well as demolitions of other estates around the borough)<br><br>Twitter: https://twitter.com/No2demolition]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.05391,51.60197,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sheerwater Residents</name>
+		<description><![CDATA[Campaign by Sheerwater Residents Group who are fighting to save homes from a complete rebuild rather than the desired regeneration.<br><br>Twitter: https://twitter.com/SheerwaterRes]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.5299187,51.3357057,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ravensbury Grove</name>
+		<description><![CDATA[Residents association campaigning against demolition and development being pushed through and residents' voices being ignored<br><br> Website: https://ravensburygrove.wordpress.com<br><br>https://twitter.com/ravensburygrove]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.1819289,51.399065,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Central Hill, Upper Norwood</name>
+		<description><![CDATA[Residents of Central Hill Estate resisting Lambeth Council plans to demolish the estate instead of repairing it.<br><br>Website: http://centralhill.london/<br><br>Facebook: https://www.facebook.com/groups/554220628024609/<br><br>Twitter: https://twitter.com/savecentralhill<br><br>Press release: http://www.twitlonger.com/show/n_1sld3nb<br><br>News report: http://www.brixtonbuzz.com/2015/03/central-hill-estate-residents-in-upper-norwood-voice-their-concerns-over-lambeths-regeneration-plans/]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.08990760000000002,51.4208878,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Brune Bernard Carter Estate</name>
+		<description><![CDATA[Representing the campaign to save E1's Brune Bernard Barnett Carter Estate from proposed demolition.<br><br>Twitter: https://twitter.com/BBCResidents<br><br>Facebook: https://www.facebook.com/bbcresidents?fref=nf]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.0748819,51.5177296,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Brixton Arches - Reclaim Brixton</name>
+		<description><![CDATA[Group fighting back against the broad effects of gentrification in Brixton, including at Brixton Arches and the new Town Hall development.<br><br>Facebook: https://www.facebook.com/reclaimbrixton<br><br>Twitter: www.twitter.com/ReclaimBrixton<br><br>Press: http://www.brixtonbuzz.com/2015/03/second-reclaim-brixton-meeting-attracts-a-growing-number-of-local-activists-and-residents/]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.114466,51.4634193,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Alton Regeneration Watch, Roehampton</name>
+		<description><![CDATA[Residents of the Alton Estate concerned by the developments of the Alton Area Masterplan.<br><br>Website: http://www.altonwatch.org.uk/]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.2411199,51.44648500000002,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Clapham Junction Action group</name>
+		<description><![CDATA[Group dedicated to representing the interests of the local community in new developments, and countering the misinformation put out by developers. Sites focused on include Winstanley and York Road estates.<br><br>Website: <br>http://cjag.org/<br><br>Twitter: https://twitter.com/c_j_a_g]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.1699555,51.4641211,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Haringey Housing Action</name>
+		<description><![CDATA[Haringey Housing Action Group meets regularly to give and receive support on housing problems and campaign for better housing, working collectively to solve each others’ problems.. Opposing unaccountable property developers, Councillors and private companies trying to impose top-down, profit-led mass ‘regeneration and redevelopment’ schemes all over Haringey..<br><br>website: http://haringeyhousingaction.org.uk/<br><br>twitter: https://twitter.com/HaringeyHousing]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.10952,51.5909359,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hackney Housing Group</name>
+		<description><![CDATA[Hackney Housing Group meet to give and receive support on housing problems and campaign for better housing every second Saturday from 1pm-3pm at Navarino Mansions, Dalston Lane, Hackney, E8 1LE (map). Email hackneyhousinggroup@gmail.com for more details. <br><br>Facebook: <br><br>https://www.facebook.com/pages/Hackney-Housing-Group/411613865657932?fref=ts]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.0627369,51.5480297,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hands Off Knights Walk</name>
+		<description><![CDATA[Residents fighting against the demolition of their homes and for an increase in provision of social housing.<br><br>Petition: https://www.change.org/p/lambeth-council-i-support-the-knights-walk-residents-in-their-fight-against-the-demolition-of-their-homes-and-acknowledge-their-willingness-to-increase-the-provision-of-social-housing-on-the-estate<br><br>Twitter: https://twitter.com/Knights_Walk<br><br>Website: https://handsoffknightswalk.wordpress.com/<br><br>Press: http://www.brixtonbuzz.com/2015/03/knights-walk-residents-launch-petition-as-they-fight-lambeths-plans-to-flatten-their-estate/]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.1069021,51.4886784,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Chapman House / Tower Hamlets Renters</name>
+		<description><![CDATA[Tower Hamlets Renters campaigns for a safe, secure and affordable housing for private renters. Have been involved in taking direct action against vindictive landlords in the borough, including at Chapman House. Also supporting other campaigns in the area such as by former residents of Balfron Tower.<br><br>Website: https://towerhamletsrenters.wordpress.com<br><br>Facebook: https://www.facebook.com/pages/Tower-Hamlets-Renters/147699932058962?sk=info&tab=page_info<br><br>Twitter: https://twitter.com/threnters]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.05855799999999999,51.5127955,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Dollis Valley Pre-School Occupation</name>
+		<description><![CDATA[Occupation of nursery in Barnet to save it from demolition in regeneration plans. <br><br>60 Rossiter Fields, Barnet, EN5 2UT<br><br>Info: https://www.facebook.com/media/set/?set=a.797578456985172.1073741834.575752719167748&type=3<br><br>Facebook group: https://www.facebook.com/occupybarnet<br><br>Twitter: <br>https://twitter.com/ourbohemia]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.2026677,51.6439758,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Heygate Estate</name>
+		<description><![CDATA[A now historic battleground in the London housing movement. The grassroots housing movement exploded too late to save the Heygate, where demolition ended in mid-2014. Activists from the site have now turned their attention to the wider Elephant and Castle area, particularly the Heygate's sister estate the Aylesbury.<br><br>Website: https://southwarknotes.wordpress.com/<br>Twitter: https://www.twitter.com/SouthwarkNotes]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.0963879,51.49338139999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Save Goldhawk Road Shops</name>
+		<description><![CDATA[Campaigns to save shops from demolition and replacement with luxury flats. Nearby Shepherd's Bush Market campaign is fighting against the same development.<br><br>Website: https://www.facebook.com/groups/113170378743495/<br><br>Press: <br><br> http://www.mirror.co.uk/news/uk-news/last-ever-christmas-authentic-market-4870195<br><br>http://www.pigeonsandpeacocks.com/2014/02/save-goldhawk-road/]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.229919,51.50179729999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Shepherd&apos;s Bush Market Tenants&apos; Association - SBMTA</name>
+		<description><![CDATA[Group working to protect market threatened by new luxury development. Nearby Goldhawk Road campaign is fighting the same development.<br><br>Website: https://www.facebook.com/pages/Shepherds-Bush-Market-Tenants-Association-SBMTA/516199748501818?fref=ts<br><br>Background: http://tradmarketresearch.weebly.com/blog/1<br><br>Petition: <br>https://www.change.org/p/save-the-shepherds-bush-market-businesses]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.2267003,51.5042816,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Save Portobello Road Market</name>
+		<description><![CDATA[Campaign against 'Westfield-style' redevelopment that will destroy the market's uniqueness and atmosphere<br><br>Petition: https://you.38degrees.org.uk/petitions/save-portobello-raod-from-the-portobello-village-westway-space-1<br><br>Website: https://www.facebook.com/pages/Save-the-Portobello-Road-Market/300902793992<br><br>Press: http://metro.co.uk/2015/03/12/londons-portobello-road-faces-redevelopment-with-westfield-style-shops-5101200/]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.2045989,51.5154329,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Friends of Queens Market</name>
+		<description><![CDATA[Successful 8 year campaign to halt Newham Council's plan to lease the market site to property developers. The nearby Boleyn Ground has become a new focus, with a campaign kicked off to challenge the council's plans to have it demolished and replaced with luxury housing.<br><br>Website: http://www.friendsofqueensmarket.org.uk<br><br>Twitter: https://twitter.com/FoQMarket]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>0.0347829,51.5344305,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Canton Street Garages</name>
+		<description><![CDATA[Residents angry at housing association selling off of their garages and converting them into a performance art space without consultation<br><br>Website: http://cantonstreetgarages.blogspot.co.uk/<br><br>Twitter: https://twitter.com/CantonStGarages]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.0232172,51.5123349,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Grenfell Tower</name>
+		<description><![CDATA[The Grenfell Action Group was formed to oppose the Kensington Academy and Leisure Centre project and defend the rights of the residents of Lancaster West Estate, a sprawling, inner-city, social housing complex of nearly a thousand dwellings, mostly working class, multi-cultural and multi-ethnic.<br><br>Website: https://grenfellactiongroup.wordpress.com/]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.2158213,51.514084,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Digs (Hackney Renters)</name>
+		<description><![CDATA[Digs campaign for a better deal for people renting in Hackney and beyond. Monthly support group meets on the last monday of every month, 7pm at Kingshold Community Centre, 49 Ainsworth Road E9 7JE. <br><br>Website: http://hackneyrenters.org<br><br>Twitter: https://twitter.com/hackney_renters]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.0578713,51.5379608,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wyatt Park Residents</name>
+		<description><![CDATA[Residents fighting against development taking place illegally without consultation and disregarding community. <br><br>Petition and info<br><br>https://you.38degrees.org.uk/petitions/stop-greedy-property-developers-from-stealing-our-right-to-day-light-and-imprisoning-us-in-our-homes<br><br>:Facebook: https://www.facebook.com/profile.php?id=100007112024888<br><br>Twitter: https://twitter.com/WPRRG]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.1230061,51.44060019999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Save Norton Folgate</name>
+		<description><![CDATA[British Land want to obliterate Norton Folgate under a hideous corporate plaza, and Save Norton Folgate want to stop them.<br><br>Press: http://spitalfieldslife.com/2015/04/18/return-to-elder-st/<br><br>Website: http://www.thespitalfieldstrust.com/<br><br><br>Twitter: https://twitter.com/SpitalfieldsT <br>(also #SaveNortonFolgate)<br><br>Facebook: https://www.facebook.com/savenortonfolgate?fref=ts]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.078814,51.52087390000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Save Lea Marshes</name>
+		<description><![CDATA[Originally a campaign to preserve the marshes from damage during the Olympics, they have since turned their attentions to the increased development threats to the Lea Valley and surrounding green spaces. SLM have widened their remit to include the whole area and are working cooperatively with other local and special interest groups to preserve the land for nature and open community use.<br><br>https://twitter.com/saveleamarshes<br><br>https://www.facebook.com/groups/346047605407439/]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.05201340000000001,51.5716285,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Camden Resists</name>
+		<description><![CDATA[Camden Resists is standing up for & supporting those affected by the housing crisis & other social issues in Camden & London. Email camdenresists@gmail.com <br><br>Facebook: https://www.facebook.com/pages/Camden-Resists/355917041271426<br><br>Twitter: https://twitter.com/camdenresists]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.1416636,51.539102,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Save Chrisp Street Market</name>
+		<description><![CDATA[New campaign to ensure redevelopment of the market and surrounding area does not push out traders, businesses and residents with increased rents and forced displacement.<br><br>Twitter: https://twitter.com/savechrispst<br><br>More dedicated websites and social media coming soon. For now see: <br><br>https://towerhamletsrenters.wordpress.com/]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.0145483,51.51224140000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Save Robin Hood</name>
+		<description><![CDATA[Here to save Robin Hood Gardens from demolition. We think the estate is worth saving. English Heritage we demand you list the buildings.<br><br> https://twitter.com/saverobinhood]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.0088191,51.50942360000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Westway 23</name>
+		<description><![CDATA[We are a direct action group based in North Kensington, giving a voice to our local community against unwanted developments. An umbrella grass roots organisation formed of concerned local residents, organisations, traders and artists of all ages, ethnicities and backgrounds, united to defend the rights of the local community of Ladbroke Grove, Notting Hill, West London in relation to the 23 acres of land held in trust for the benefit of local residents by Westway Trust.  <br><br>http://www.westway23.org/<br><br>https://twitter.com/westway23]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.2102208,51.5170751,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Save the London Fruit and Wool Exchange</name>
+		<description><![CDATA[Stop the demolition of the 1929 London Fruit and Wool Exchange of Spitalfields Market; also the 1920's Gun pub, Barclays Bank and 17 C. Dorset Street in London, Tower Hamlets. Help stop this destruction of this historic area of East London.<br><br>https://www.facebook.com/SaveTheLondonFruitandWoolExchange/timeline]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.07550950000000001,51.51889109999999,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
